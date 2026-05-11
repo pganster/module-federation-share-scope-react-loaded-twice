@@ -1,0 +1,10 @@
+{
+  "latestErrorEvent": {
+    "code": "TYPE-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"npx tsc --project /home/polemix/Projects/open-source/mf-bridge-double-react-instance/app-b/node_modules/.federation/tsconfig.22dbaf47bdeb19ce5b4a33b5daa002ac.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "args": {
+      "cmd": "npx tsc --project /home/polemix/Projects/open-source/mf-bridge-double-react-instance/app-b/node_modules/.federation/tsconfig.22dbaf47bdeb19ce5b4a33b5daa002ac.json"
+    },
+    "timestamp": 1778487676565
+  }
+}
