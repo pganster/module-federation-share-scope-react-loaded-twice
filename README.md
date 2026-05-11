@@ -1,6 +1,7 @@
 # mf-bridge-double-react-instance
 
-Reproduction repository demonstrating a duplicate React instance issue when using Module Federation Bridge across mixed React version boundaries.
+Reproduction repository demonstrating a duplicate React instance issue when using Module Federation Bridge across mixed React version boundaries
+as described in issue https://github.com/module-federation/core/issues/4723.
 
 ## The Issue
 
